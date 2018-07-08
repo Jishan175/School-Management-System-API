@@ -1,0 +1,28 @@
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSRepository.dll.config
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSRepository.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSRepository.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\EntityFramework.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSEntity.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSInterface.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSEntity.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSInterface.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\EntityFramework.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\obj\Debug\SMSRepository.csprojResolveAssemblyReference.cache
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\obj\Debug\SMSRepository.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSRepository\obj\Debug\SMSRepository.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSRepository.dll.config
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSRepository.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSRepository.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\EntityFramework.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSEntity.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSInterface.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSEntity.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\SMSInterface.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\EntityFramework.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\obj\Debug\SMSRepository.csprojResolveAssemblyReference.cache
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\obj\Debug\SMSRepository.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSRepository\obj\Debug\SMSRepository.pdb

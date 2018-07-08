@@ -1,0 +1,170 @@
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\ApplicationInsights.config
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\csc.exe
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\vbc.exe
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\SMSApi.dll.config
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\SMSApi.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\SMSApi.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\CommonServiceLocator.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\EntityFramework.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.Web.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Newtonsoft.Json.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\SMSEntity.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\SMSInterface.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\SMSRepository.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Helpers.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Mvc.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Razor.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Abstractions.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Configuration.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Container.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Interception.Configuration.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Interception.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Mvc5.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.ServiceLocation.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\SMSEntity.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\SMSInterface.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\SMSRepository.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\CommonServiceLocator.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\EntityFramework.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.Web.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Helpers.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Mvc.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Razor.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Abstractions.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Configuration.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Container.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Interception.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.Interception.Configuration.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.ServiceLocation.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Newtonsoft.Json.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\obj\Debug\SMSApi.csprojResolveAssemblyReference.cache
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\obj\Debug\SMSApi.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\obj\Debug\SMSApi.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Cors.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.Cors.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\Unity.WebApi.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.Cors.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\ApplicationInsights.config
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\csc.exe
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\vbc.exe
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\SMSApi.dll.config
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\SMSApi.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\SMSApi.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\CommonServiceLocator.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\EntityFramework.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.Web.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Newtonsoft.Json.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\SMSEntity.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\SMSInterface.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\SMSRepository.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Cors.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Helpers.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.Cors.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Mvc.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Razor.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Abstractions.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Configuration.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Container.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Interception.Configuration.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Interception.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Mvc5.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.ServiceLocation.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.WebApi.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\SMSEntity.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\SMSInterface.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\SMSRepository.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\CommonServiceLocator.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\EntityFramework.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.Web.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Helpers.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.Cors.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Mvc.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Razor.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Abstractions.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Configuration.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Container.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Interception.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.Interception.Configuration.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Unity.ServiceLocation.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\Newtonsoft.Json.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\obj\Debug\SMSApi.csprojResolveAssemblyReference.cache
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\obj\Debug\SMSApi.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSApi\obj\Debug\SMSApi.pdb

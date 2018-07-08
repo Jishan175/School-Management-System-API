@@ -1,0 +1,10 @@
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSEntity\bin\Debug\SMSEntity.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSEntity\bin\Debug\SMSEntity.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSEntity\obj\Debug\SMSEntity.csprojResolveAssemblyReference.cache
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSEntity\obj\Debug\SMSEntity.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\School Management Solution\SMSEntity\obj\Debug\SMSEntity.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSEntity\bin\Debug\SMSEntity.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSEntity\bin\Debug\SMSEntity.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSEntity\obj\Debug\SMSEntity.csprojResolveAssemblyReference.cache
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSEntity\obj\Debug\SMSEntity.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\New folder\School Management System\School Management Solution\SMSEntity\obj\Debug\SMSEntity.pdb

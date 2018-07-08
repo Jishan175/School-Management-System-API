@@ -1,0 +1,86 @@
+
+div.sctitle {
+    padding-top: 0px;
+    height: 80px;
+    background-color: black;
+}
+div.navbar {
+    position: fixed;    
+    width:180px;
+    height:100vh;
+    background-color: #111;
+    visibility: hidden;
+    
+
+
+}
+div.navicon{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+ul.menu{
+   margin-top: -35em;
+   
+}
+
+div.naviconholder{
+  position: absolute;
+  padding-left: 50px;
+  width: 120px;
+  height: 30px;
+}
+
+div.mainbody{
+   margin-left: 300px; 
+   position: fixed;
+   background-color: white;
+   margin-bottom: 100px;
+   width: 80.7%;
+   height: 100vh;
+
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #767476;
+   color: white;
+   text-align: center;
+}
+
+h2.one{
+  padding-top: 10px;
+  text-align: center;
+  color:white;
+}
+
+
+div.gallery {
+    margin: 20px;
+    transition: transform 2s;
+    border: 2px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2); 
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}

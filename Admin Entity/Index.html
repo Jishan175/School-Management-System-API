@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Admin HomePage</title>
+   <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="style/bootstrap.min.css">
+  <script src="scripts/jquery.min.js"></script>
+   <script src="scripts/script.js"></script>
+</head>
+<body>  
+   
+<div class="sctitle" id="Schooltitle">
+  <h2 class="one" id="p1">
+    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABC HIGH SCHOOL</b>
+     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="image/signout.png"  weidth="50" height="50">
+    </span>
+  </h2>
+
+
+</div>
+    <div>
+      <div class="naviconholder" id="navicon">
+      <div class="navicon" ></div>
+      <div class="navicon" ></div>
+      <div class="navicon" ></div>
+      <span><b>Menu</b></span>
+    </div>
+  </div>
+  
+
+
+   <div>
+        <div class="mainbody" id="Mainbody">
+          <div class="gallery">
+              <a target="_blank" href="http://www.aiub.edu">
+                 <img src="image/Teacher.jpg" alt="Teachers" width="600" height="400">
+              </a>
+            <div class="desc"><b>Teachers</b></div>
+          </div>
+  
+
+          <div class="gallery">
+              <a target="_blank" href="image/student.jpg">
+                <img src="image/student.jpg" alt="Student" width="600" height="400">
+              </a>
+             <div class="desc"><b>Student</b></div>
+          </div>
+
+          <div class="gallery">
+              <a id="admin_profile">
+                <img src="image/Profile.jpg" alt="Profile" width="600" height="400">
+              </a>
+             <div class="desc"><b>Profile</b></div>
+          </div>
+
+          <div class="gallery">
+              <a target="_blank" href="image/course.jpg">
+                <img src="image/course.jpg" alt="course" width="600" height="400">
+              </a>
+             <div class="desc"><b>Course</b></div>
+          </div>
+          
+
+          <br/>
+          <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+          <div id="admin_details">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <input style="background-color: skyblue; color: black;" align="center" type="text" id="scr"/> <input  style="background-color: blue; color: white;"     align="center" type="submit" value=" SEARCH " id="sbutton"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input style="background-color: lime; color: white;" align="left" type="submit" value="+ ADD NEW ADMIN " id="createbutton"/>
+<br>
+
+            <label id="msg"></label>
+
+
+            
+               
+              
+            <table style="background-color: yellow; color: black; text-align: center;;"align="center" border="1" id="admin_list">
+              <thead>
+                <tr align="center">
+                  <th align="center">Username</th>
+                  <th align="center">Fullname</th>
+                  <th align="center">Email</th>
+
+                  <th align="center" colspan="3">Options</th>
+                </tr>
+              </thead>
+              <tbody id="admin_body"></tbody>
+            </table>
+          </div>
+          <div id="adminEdit">
+            <label id="msgi"></label>
+            <table>
+              <tr>
+                <td>
+                   <label align="center">ID</label>
+                </td>
+                <td>
+                   <label align="center" id="adminId"></label>
+                </td>
+              </tr>
+              <tr>
+                <td> <label align="center">Username</label></td>
+                <td><input align="center" type="text" id="ausername"/> <br/></td>
+              </tr>
+              <tr>
+                <td> <label align="center">Fullname</label></td>
+                <td><input align="center" type="text" id="afullName"/> <br/></td>
+              </tr>
+              <tr>
+                <td> <label align="center">Email</label></td>
+                <td><input align="center" type="text" id="aemail"/></td>
+              </tr>
+              <tr>
+                <td> <label align="center">Password</label></td><br/>
+           
+                <td><input align="center" type="text" id="apassword"/></td>
+              </tr>
+              <tr>
+                <td> <input  align="center" type="submit" value="Save" id="adminSave"/></td>
+              </tr>
+            </table>
+          </div>
+
+
+
+<div id="admindetail">
+            <label id="msgi"></label>
+            <table>
+              <tr>
+                <td>
+                   <label align="center">ID :</label>
+                </td>
+                <td>
+                   <label align="center" id="bdminId"></label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                   <label align="center">USER NAME :</label>
+                </td>
+                <td>
+                   <label align="center" id="busername"></label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                   <label align="center">FULL NAME :</label>
+                </td>
+                <td>
+                   <label align="center" id="bfullName"></label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                   <label align="center">EMAIL :</label>
+                </td>
+                <td>
+                   <label align="center" id="bemail"></label>
+                </td>
+              </tr>
+             <tr>
+                <td>
+                   <label align="center">PASSWORD :</label>
+                </td>
+                <td>
+                   <label align="center" id="bpassword"></label>
+                </td>
+              </tr>
+              <tr>
+                <td> <input  align="center" type="submit" value="BACK" id="bdminSave"/></td>
+              </tr>
+            </table>
+          </div>
+
+
+
+
+
+
+<div id="admindel">
+            <label id="msgi"></label>
+            <table>
+              <tr>
+                <td>
+                   <label align="center">ID :</label>
+                </td>
+                <td>
+                   <label align="center" id="ddminId"></label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                   <label align="center">USER NAME :</label>
+                </td>
+                <td>
+                   <label align="center" id="dusername"></label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                   <label align="center">FULL NAME :</label>
+                </td>
+                <td>
+                   <label align="center" id="dfullName"></label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                   <label align="center">EMAIL :</label>
+                </td>
+                <td>
+                   <label align="center" id="demail"></label>
+                </td>
+              </tr>
+             <tr>
+                <td>
+                   <label align="center">PASSWORD :</label>
+                </td>
+                <td>
+                   <label align="center" id="dpassword"></label>
+                </td>
+              </tr>
+
+              <tr>
+                <label style="color : red ;" align="center" >DO YOU WANT TO Delete ?</label>
+              </tr>
+              <tr>
+                <td> <input  align="center" type="submit" value="YES" id="dyes"/></td>
+
+                <td> <input  align="center" type="submit" value="NO" id="dno"/></td>
+              </tr>
+            </table>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+<div id="createadmin">
+            <label id="msgi"></label>
+
+
+
+
+            <table>
+              
+              <tr>
+                <td> <label align="center">Username</label></td>
+                <td><input align="center" type="text" id="creusername"/> <br/></td>
+              </tr>
+              <tr>
+                <td> <label align="center">Fullname</label></td>
+                <td><input align="center" type="text" id="crefullName"/> <br/></td>
+              </tr>
+              <tr>
+                <td> <label align="center">Email</label></td>
+                <td><input align="center" type="text" id="creemail"/></td>
+              </tr>
+              <tr>
+                <td> <label align="center">Password</label></td><br/>
+           
+                <td><input align="center" type="text" id="crepassword"/></td>
+              </tr>
+              <br>
+              <tr>
+                <td> <input  align="center" type="submit" value="ADD USER" id="credminSave"/></td>
+              </tr>
+            </table>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     </div>
+    </div>
+
+    <div class="navbar" id="navbar">
+     
+           <ul class="menu">
+              <li>
+                <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img src="image/adminlogo.png" width="120" height="50">
+             </li>
+               <li><a style="text-decoration: none;" href="http://www.aiub.edu"><b style="font-family:TimesNewRoman; color:white; font-size:30px;">Home <br/></b></a></li>
+               <li><a style="text-decoration: none;" href="#news"><b style="font-family:TimesNewRoman; color:white; font-size:30px;">News</b></a></li>
+               <li><a style="text-decoration: none;" href="#contact"><b style="font-family:TimesNewRoman; color:white; font-size:30px;">Contact</b></a></li>
+               <li><a style="text-decoration: none;" href="#about"><b style="font-family:TimesNewRoman; color:white; font-size:30px;">About</b></a></li>
+            </ul>          
+
+     </div>
+</body>
+</html>
